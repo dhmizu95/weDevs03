@@ -1,8 +1,13 @@
 # weDevs03
 
-Que: 3
+## Que: 3
+
 Change the flow of the execution of the following snippet. It should log ‘Wearing PPE` first.
-Conditions: 1) You cannot change the timeout value 2) You cannot call fightCorona inside the then() method of wearPPE()
+
+Conditions:
+
+- You cannot change the timeout value
+- You cannot call fightCorona inside the then() method of wearPPE()
 
 ```javascript
 function wearPPE() {
